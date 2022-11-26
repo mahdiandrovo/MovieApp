@@ -1,8 +1,10 @@
-package com.drovo.movieapp;
+package com.drovo.movieapp.View.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.drovo.movieapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
